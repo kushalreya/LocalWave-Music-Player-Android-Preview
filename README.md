@@ -238,29 +238,21 @@ VM --> UI
 
 # 📸 Screenshots / Demo
 
-## Home Screen
+## Permission Dialogs
 
-```text
-[ Add Screenshot Here ]
-```
+-img
 
 ## Music Player
 
-```text
-[ Add Screenshot Here ]
-```
+-video
 
 ## Favorites Screen
 
-```text
-[ Add Screenshot Here ]
-```
+-img
 
 ## Dynamic Theme Example
 
-```text
-[ Add Screenshot Here ]
-```
+-video
 
 ## Demo Video
 
