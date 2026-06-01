@@ -281,7 +281,8 @@ https://github.com/user-attachments/assets/f673876b-6642-49f6-b78e-fd2cac385c74
 ## Demo Video
 
 ```text
-https://youtu.be/3Trru19tWdI
+YouTube- https://youtu.be/3Trru19tWdI
+X - https://x.com/kushalreya/status/2061441387904786607?s=20
 ```
 
 ---
