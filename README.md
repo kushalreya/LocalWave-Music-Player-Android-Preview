@@ -240,7 +240,10 @@ VM --> UI
 
 ## Permission Dialogs
 
--img
+<p align="center">
+  <img src="/images/Storage_Permission.png" height=500>
+  <img src="/images/Notification_Pemission.png" height=500>
+</p>
 
 ## Music Player
 
@@ -248,7 +251,10 @@ VM --> UI
 
 ## Favorites Screen
 
--img
+<p align="center">
+  <img src="/images/Favourite_Screen_Light_theme.png" height=500>
+  <img src="/images/Favourite_Screen_Dark_theme.png" height=500>
+</p>
 
 ## Dynamic Theme Example
 
