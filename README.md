@@ -281,7 +281,7 @@ https://github.com/user-attachments/assets/f673876b-6642-49f6-b78e-fd2cac385c74
 ## Demo Video
 
 ```text
-https://youtu.be/vhtw_aiRCjo?si=DmRlnsNZOX3WFeJB
+https://youtu.be/3Trru19tWdI
 ```
 
 ---
