@@ -254,6 +254,18 @@ VM --> UI
 
 -video
 
+## Music Player Screen
+
+-video
+
+## Favourite Playlist
+
+-video
+
+## Notification Player
+
+-video
+
 ## Demo Video
 
 ```text
