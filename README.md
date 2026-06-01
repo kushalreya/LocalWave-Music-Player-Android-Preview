@@ -247,7 +247,7 @@ VM --> UI
 
 ## Music Player
 
--video
+https://github.com/user-attachments/assets/be414911-9333-4410-aa30-c45ba11ab95a
 
 ## Favorites Screen
 
@@ -258,19 +258,25 @@ VM --> UI
 
 ## Dynamic Theme Example
 
--video
+https://github.com/user-attachments/assets/add03101-0f02-46b8-9dc3-6e91bb7a5dbc
 
 ## Music Player Screen
 
--video
+https://github.com/user-attachments/assets/be414911-9333-4410-aa30-c45ba11ab95a
+
+https://github.com/user-attachments/assets/3dd2e73a-50e8-458b-9b40-b8019141f96f
+
+## Repeat Mode
+
+https://github.com/user-attachments/assets/bc94dac5-1dc5-493a-9d90-20d144e0e2fd
 
 ## Favourite Playlist
 
--video
+https://github.com/user-attachments/assets/b0ae525d-ec1e-4d7a-a575-b518524c67a4
 
 ## Notification Player
 
--video
+https://github.com/user-attachments/assets/f673876b-6642-49f6-b78e-fd2cac385c74
 
 ## Demo Video
 
